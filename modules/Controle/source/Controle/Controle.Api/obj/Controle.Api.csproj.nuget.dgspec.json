@@ -1,0 +1,335 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Api\\Controle.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Api\\Controle.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Api\\Controle.Api.csproj",
+        "projectName": "Controle.Api",
+        "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Api\\Controle.Api.csproj",
+        "packagesPath": "C:\\Users\\robson.sistemas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\robson.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Unisys\\ClearPath\\ePortal Developer 10.0\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Service\\Controle.Service.csproj": {
+                "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Service\\Controle.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Data\\Controle.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Data\\Controle.Data.csproj",
+        "projectName": "Controle.Data",
+        "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Data\\Controle.Data.csproj",
+        "packagesPath": "C:\\Users\\robson.sistemas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\robson.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Unisys\\ClearPath\\ePortal Developer 10.0\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Core\\source\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Core\\source\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Service\\Controle.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Service\\Controle.Service.csproj",
+        "projectName": "Controle.Service",
+        "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Service\\Controle.Service.csproj",
+        "packagesPath": "C:\\Users\\robson.sistemas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\robson.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Unisys\\ClearPath\\ePortal Developer 10.0\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Data\\Controle.Data.csproj": {
+                "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Controle\\source\\Controle\\Controle.Data\\Controle.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.10.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Core\\source\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Core\\source\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Core\\source\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\robson.sistemas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\robson.sistemas\\Desktop\\projeto back end\\controle_api_rest\\modules\\Core\\source\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\robson.sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Unisys\\ClearPath\\ePortal Developer 10.0\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[6.0.7, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

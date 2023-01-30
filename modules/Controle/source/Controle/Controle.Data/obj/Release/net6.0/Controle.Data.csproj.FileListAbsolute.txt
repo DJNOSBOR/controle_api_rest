@@ -1,0 +1,15 @@
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\bin\Release\net6.0\Controle.Data.deps.json
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\bin\Release\net6.0\Controle.Data.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\bin\Release\net6.0\Controle.Data.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\bin\Release\net6.0\Core.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\bin\Release\net6.0\Core.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.csproj.AssemblyReference.cache
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.AssemblyInfoInputs.cache
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.AssemblyInfo.cs
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.csproj.CoreCompileInputs.cache
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.csproj.CopyComplete
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\refint\Controle.Data.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\Controle.Data.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Data\obj\Release\net6.0\ref\Controle.Data.dll

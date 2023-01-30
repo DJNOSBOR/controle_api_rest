@@ -1,0 +1,3 @@
+﻿dotnet ef migrations add "testess" --startup-project ..\Controle.Api
+dotnet ef database update "testess" --startup-project ..\Controle.Api
+dotnet ef migrations add "ttas" --project .\ --startup-project ..\..\..\Controle.Data\source\Controle.Data\Controle.Data --msbuildprojectextensionspath ..\..\..\..\..\..\..\outputs\obj\Controle.Api

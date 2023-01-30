@@ -1,0 +1,17 @@
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Controle.Service.deps.json
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Controle.Service.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Controle.Service.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Controle.Data.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Core.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Controle.Data.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\bin\Release\net6.0\Core.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.csproj.AssemblyReference.cache
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.AssemblyInfoInputs.cache
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.AssemblyInfo.cs
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.csproj.CoreCompileInputs.cache
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.csproj.CopyComplete
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\refint\Controle.Service.dll
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\Controle.Service.pdb
+C:\Users\robson.sistemas\Desktop\projetoteste\Controle\Controle\modules\Controle\source\Controle\Controle.Service\obj\Release\net6.0\ref\Controle.Service.dll
